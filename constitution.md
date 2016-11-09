@@ -24,7 +24,7 @@ Our vision is to foster a _community_ of creators and innovators in technology a
 
 2. The Executive Committee shall consist of a group of officers in a non-hierarchical structure dividing between them the typical executive duties. Among the officers, there shall be elected a General-Secretary and Junior Treasurer.
 
-3. In addition, there shall be a Senior Treasurer, who shall be a resident member of the Senate or any other person approved by the Junior Proctor. The Senior Treasurer shall be appointed by the elected members of the Executive Committee and shall be ex officio a member of the Executive Committee.
+3. In addition, there shall be a Senior Treasurer, who shall be a resident member of Regent House or any other person approved by the Junior Proctor. The Senior Treasurer shall be appointed by the elected members of the Executive Committee and shall be ex officio a member of the Executive Committee.
 
 4. The Executive Committee shall be made up of full members of the Society.
 
