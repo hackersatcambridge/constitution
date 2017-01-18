@@ -24,7 +24,7 @@ Our vision is to foster a _community_ of creators and innovators in technology a
 
 2. The Executive Committee shall consist of a group of officers in a non-hierarchical structure dividing between them the typical executive duties. Among the officers, there shall be elected a General-Secretary and Junior Treasurer.
 
-3. In addition, there shall be a Senior Treasurer, who shall be a resident member of Regent House or any other person approved by the Junior Proctor. The Senior Treasurer shall be appointed by the elected members of the Executive Committee and shall be ex officio a member of the Executive Committee.
+3. In addition, there shall be a Senior Treasurer, who shall be a member of Regent House or any other person approved by the Junior Proctor. The Senior Treasurer shall be appointed by the elected members of the Executive Committee and shall be ex officio a member of the Executive Committee.
 
 4. The Executive Committee shall be made up of full members of the Society.
 
@@ -52,6 +52,8 @@ Our vision is to foster a _community_ of creators and innovators in technology a
 
 3. The number of Executive Committee positions available to be filled at AGM elections is to be determined by the Executive Committee and announced with fourteen days' written notice. Only those who are members of the Society may be elected as a member of the Executive Committee. Candidates for election to office shall be proposed and seconded by two other members. Voting shall be by secret ballot. If there are more than two candidates for a post or more than two options on a motion, voting shall be by single transferable vote.
 
+A majority of the elected members of the Executive Committee shall be full-time undergraduate or post graduate students of the University of Cambridge.
+
 4. An Extraordinary General Meeting (EGM) may be held at any time during full term. It shall be held in Cambridge and may be called by the Executive Committee or at the written request of at least ten members. Ten days' written notice shall be given to members before an EGM is held. An EGM shall have the same powers as an AGM.
 
 5. The General Meeting will be chaired by a member of the Executive Committee in the same manner as the eExecutive Committee meetings detailed in 4.5. The quorum for a General Meeting shall be five members and a written record of every General Meeting shall be kept.
@@ -68,11 +70,15 @@ Our vision is to foster a _community_ of creators and innovators in technology a
 
 5. For so long as the Society shall be registered with the Junior Proctor, it shall be the duty of the Executive Committee to ensure that the Society complies with requirements for registration as a University of Cambridge society.
 
-## 8. Changes to the Constitution and Repository
+## 8. Changes to the Repository
 
-Changes to the Constitution and the Repository may be proposed by any member during any regular meeting of the Executive Committee (including General Meetings) and will be brought to vote if seconded by a member of the Executive Committee. Changes to the Constitution require a two-thirds' majority from the entire Executive Committee to pass. Changes to the Repository require the process outlined in 5.5.
+Changes to the Repository may be proposed by any member during any regular meeting of the Executive Committee (including General Meetings) and will be brought to vote if seconded by a member of the Executive Committee. Changes to the Repository require the process outlined in 5.5.
 
-## 9. Disciplinary Processes
+## 9. Changes to the Constitution
+
+ The Constitution may be amended at a General Meeting, with approval of at least two thirds of those present.
+
+## 10. Disciplinary Processes
 
 1. The Executive Committee may expel any member whose conduct seems likely to bring the Society into disrepute. Expulsion requires the agreement of a two-thirds majority of the Executive Committee, excluding the Senior Treasurer. In the event of an expulsion, the excluded member is required to return all equipment, documents and finances belonging to the Society within 7 days.
 
@@ -80,7 +86,7 @@ Changes to the Constitution and the Repository may be proposed by any member dur
 
 3. Additionally, the Executive Committee may expel any other member of the Executive Committee whose conduct seems likely to bring the society into disrepute, or who has proven to be unable to carry out his or her duties as an officer. Expulsion of an officer from the Executive Committee requires the agreement of all other members of the Executive Committee, excluding the Senior Treasurer, and additionally constitutes as an expulsion from Membership.
 
-## 10. Dissolution
+## 11. Dissolution
 
 1. The Society may be dissolved at a General Meeting provided that at least twenty-one days' written notice of the intention to dissolve the Society has been given to the members. At least two-thirds of those present and voting at the General Meeting must vote in favour of the motion for dissolution for it to be effective.
 
