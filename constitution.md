@@ -54,7 +54,7 @@ Our vision is to foster a _community_ of creators and innovators in technology a
 
 4. An Extraordinary General Meeting (EGM) may be held at any time during full term. It shall be held in Cambridge and may be called by the Executive Committee or at the written request of at least ten members. Ten days' written notice shall be given to members before an EGM is held. An EGM shall have the same powers as an AGM.
 
-5. The General Meeting will be chaired by a member of the Executive Committee in the same manner as the eExecutive Committee meetings detailed in 4.5. The quorum for a General Meeting shall be five members and a written record of every General Meeting shall be kept.
+5. The General Meeting will be chaired by a member of the Executive Committee in the same manner as the Executive Committee meetings detailed in 4.5. The quorum for a General Meeting shall be five members and a written record of every General Meeting shall be kept.
 
 ## 7. Financial Matters
 
