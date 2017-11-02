@@ -1,21 +1,18 @@
-Make constitution/non-constitutional change from meeting on %DATE%
+Make constitution/non-constitutional change from meeting on YYYY-MM-DD
 
-Description of the changes as proposed in the meeting.
+Description of the changes.
 
-Proposed By Name
+Proposed By Name.
 
-Votes For:
+**Attendees**:
+  - Name: Role
+  - Name: Role
 
-  - Name : Role
+**Votes For**: X
 
-Votes Against:
+**Votes Against**: X
 
-  - Name : Role
+**Abstentions**: X
 
-Abstentions:
-
-  - Name : Role
-
-Observing
-
+**Observing**:
   - Name
