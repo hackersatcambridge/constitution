@@ -29,4 +29,4 @@ Membership of the Society is determined as outlined in the [constitution](consti
 
 # Executive Committee
 
-The canonical list of members of the executive is the [committee/committee.yaml](committee/committee.yaml) file. Any changes to this file must satisfy the requirements laid out in the constitution for adding or removing members for the Society.
+The canonical list of members of the executive is the [committee/committee.yaml](committee/committee.yaml) file. Any changes to this file must satisfy the requirements laid out in the constitution for adding or removing members for the Executive Committee.
