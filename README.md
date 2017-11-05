@@ -1,6 +1,6 @@
 # Constitution
 
-The governing rules of "Hackers at Cambridge", hereafter referred to as the "Society".
+The governing rules of "Hackers at Cambridge", hereafter (and in the rest of the repository) referred to as the "Society".
 
 [Read the constitution here](constitution.md). You can also find a web version
 [on our website](https://hackersatcambridge.com/constitution).
