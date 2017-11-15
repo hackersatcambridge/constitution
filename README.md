@@ -15,7 +15,7 @@ The official website of the Society is located at [https://hackersatcambridge.co
 
 # Making changes to this repository
 
-Any changes to this repository must require a majority vote at a meeting of the Executive Committee may issue a change to the Repository's documents. Please view [the template](.github/PULL_REQUEST_TEMPLATE.md) for more information.
+Any changes to this repository must require a majority vote at a meeting of the Executive Committee. Please view [the template](.github/PULL_REQUEST_TEMPLATE.md) for more information.
 
 Individual files in the repository may relax these requirements for certain files and folders, but these requirements are *only* relaxed for changes which *only* files and folders with relaxed restrictions.
 
