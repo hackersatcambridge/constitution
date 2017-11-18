@@ -17,7 +17,7 @@ The official website of the Society is located at [https://hackersatcambridge.co
 
 Any changes to this repository must require a majority vote at a meeting of the Executive Committee. Please view [the template](.github/PULL_REQUEST_TEMPLATE.md) for more information.
 
-Individual files in the repository may relax these requirements for certain files and folders, but these requirements are *only* relaxed for those changes which *only* affect files and folders with relaxed restrictions.
+Relaxed restrictions can be specified for individual files or folders. All pull requests must adhere to all restrictions imposed by each file or folder it affects.
 
 Any changes to the constituional document must themselves meet constitutional requirements. In cases where this repository contradicts the constitution, the constitution always takes precedence.
 
