@@ -74,7 +74,9 @@ Changes to the Repository may be proposed by any member during any regular meeti
 
 ## 9. Changes to the Constitution
 
- The Constitution may be amended at a General Meeting, with approval of at least two thirds of those present.
+The Constitution may be amended at a General Meeting, with approval of at least two thirds of those present.
+
+No amendment to this Constitution intended to remove the position of Senior Treasurer, to alter its prerogatives and duties, or to change the criteria and procedure for the appointment of a Senior Treasurer can be put to a vote without the prior written agreement of the Junior Proctor of the University of Cambridge.
 
 ## 10. Disciplinary Processes
 
