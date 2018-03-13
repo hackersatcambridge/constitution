@@ -44,13 +44,7 @@ Our vision is to foster a _community_ of creators and innovators in technology a
 
 5. The Repository's constituent documents may themselves determine what conditions are required for them to be changed. If none is specified, a majority vote at a meeting of the Executive Committee may issue a change to the Repository's documents.
 
-## 6. Code of Conduct
-
-1. HaC shall have a [Code of Conduct](code_of_conduct/code_of_conduct.md), which shall be maintained in the repository.
-
-2. All HaC members and representatives are subject to the Code of Conduct when acting in such a capacity.
-
-## 7. General Meetings
+## 6. General Meetings
 
 1. The Society shall hold an Annual General Meeting (AGM) during each Academic year. The AGM shall be held in Cambridge during Easter Full Term. All members shall be entitled to attend and vote at any General Meeting. At least fourteen days written notice shall be given to members before the AGM.
 
@@ -62,7 +56,7 @@ Our vision is to foster a _community_ of creators and innovators in technology a
 
 5. The General Meeting will be chaired by a member of the Executive Committee in the same manner as the Executive Committee meetings detailed in 4.5. The quorum for a General Meeting shall be five members and a written record of every General Meeting shall be kept.
 
-## 8. Financial Matters
+## 7. Financial Matters
 
 1. The society shall maintain a banking account with a suitable bank or building society to hold the Society's funds.
 
@@ -74,23 +68,23 @@ Our vision is to foster a _community_ of creators and innovators in technology a
 
 5. For so long as the Society shall be registered with the Junior Proctor, it shall be the duty of the Executive Committee to ensure that the Society complies with requirements for registration as a University of Cambridge society.
 
-## 9. Changes to the Repository
+## 8. Changes to the Repository
 
 Changes to the Repository may be proposed by any member during any regular meeting of the Executive Committee (including General Meetings) and will be brought to vote if seconded by a member of the Executive Committee. Changes to the Repository require the process outlined in 5.5.
 
-## 10. Changes to the Constitution
+## 9. Changes to the Constitution
 
  The Constitution may be amended at a General Meeting, with approval of at least two thirds of those present.
 
-## 11. Disciplinary Processes
+## 10. Disciplinary Processes
 
 1. The Executive Committee may expel any member whose conduct seems likely to bring the Society into disrepute. Expulsion requires the agreement of a two-thirds majority of the Executive Committee, excluding the Senior Treasurer. In the event of an expulsion, the excluded member is required to return all equipment, documents and finances belonging to the Society within 7 days.
 
 2. If the excluded or suspended member wishes to appeal the decision, that appeal should be made to the Senior Treasurer, who will consider all the facts, and whose decision will be final. An appeal as to the process of exclusion, but not a further investigation into the facts, may be lodged with the Junior Proctor.
 
-3. Additionally, the Executive Committee may expel any other member of the Executive Committee whose conduct seems likely to bring the society into disrepute, or who has proven to be unable to carry out his or her duties as an officer. Expulsion of an officer from the Executive Committee requires the agreement of all other members of the Executive Committee, excluding the Senior Treasurer, and additionally constitutes as an expulsion from Membership. In cases where a member of the executive committee has been shown to violate the HaC Code of Conduct, two-thirds majority of the Executive Committee, excluding the Senior Treasurer, is required to expel a member.
+3. Additionally, the Executive Committee may expel any other member of the Executive Committee whose conduct seems likely to bring the society into disrepute, or who has proven to be unable to carry out his or her duties as an officer. Expulsion of an officer from the Executive Committee requires the agreement of all other members of the Executive Committee, excluding the Senior Treasurer, and additionally constitutes as an expulsion from Membership.
 
-## 12. Dissolution
+## 11. Dissolution
 
 1. The Society may be dissolved at a General Meeting provided that at least twenty-one days' written notice of the intention to dissolve the Society has been given to the members. At least two-thirds of those present and voting at the General Meeting must vote in favour of the motion for dissolution for it to be effective.
 
