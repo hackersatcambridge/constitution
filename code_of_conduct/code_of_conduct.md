@@ -25,7 +25,7 @@ HaC is dedicated to providing a harassment-free experience for everyone, regardl
 
 ---
 
-We do not tolerate harassment in any form. Sexual language and imagery is not appropriate at any HaC venue, this includes the following:
+We do not tolerate harassment in any form, and is not appropriate at any HaC venue, this includes the following:
 
 - hacks
 - talks, presentations, or demos
@@ -44,7 +44,7 @@ Event participants or HaC violating these rules may be sanctioned or expelled fr
 
 ---
 
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, or religion, sexual images in public spaces, deliberate intimidation, stalking, following, photography or audio/video recording against reasonable consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, or religion, deliberate intimidation, stalking, following, photography or audio/video recording against reasonable consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 ---
 
@@ -60,7 +60,7 @@ As hackathons are often organised, we like to explicitly note that the hacks cre
 
 ---
 
-Sponsors, partners and organisers are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Sponsor representatives (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
+Sponsors, partners and organisers are also subject to the anti-harassment policy.
 
 ---
 

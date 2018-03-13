@@ -19,7 +19,7 @@ Any changes to this repository must require a majority vote at a meeting of the 
 
 Relaxed restrictions can be specified for individual files or folders. All pull requests must adhere to all restrictions imposed by each file or folder it affects.
 
-Any changes to the constituional document must themselves meet constitutional requirements. In cases where this repository contradicts the constitution, the constitution always takes precedence.
+Any changes to the constitutional document must themselves meet constitutional requirements. In cases where this repository contradicts the constitution, the constitution always takes precedence.
 
 In other cases, where files in this repository are used as the canonical source of information that has its own limitations on being changed, the requirements for changing that information *must* also be met. (eg. pull requests which change the document listing the executive committee must list how the changes were voted on, and meet the requirements laid out in the constitution, similarly for the membership list.)
 
