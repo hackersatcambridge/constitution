@@ -20,8 +20,6 @@ Any material that is created for a workshop is recommended to be published under
 
 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-- [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
-
 - [Public Domain](https://wiki.creativecommons.org/wiki/Public_domain) or [CC0](https://creativecommons.org/choose/zero/)
 
 However, with the approval of two committee members (excluding the presenter), work may be published under any of the open-source licenses listed at [https://spdx.org/licenses/](https://spdx.org/licenses/). However, this should be done for a justified reason, such as a workshop building on any material published under another open-source license.
